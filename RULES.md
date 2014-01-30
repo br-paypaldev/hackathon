@@ -18,7 +18,7 @@ Os inscritos no evento Campus Party 7 interessados em participar desta Promoçã
 
 2.2.7 Não será aceito lojas usando plataformas de e-commerce open source ou proprietários.
 
-2.2.8 Os desenvolvedores devem submeter os resultados das suas transações (Tokens e TransactionsId) na página https://www.paypal-b...ficacao-brasil/.
+2.2.8 Os desenvolvedores devem submeter os resultados das suas transações (Tokens e TransactionsId) na página [Testes de homologação PayPal Brasil](https://www.paypal-brasil.com.br/x/tutoriais/guia-de-certificacao-brasil/)
 
 2.3 As regras para desenvolvimento deste projeto serão apresentadas pela Promotora às duplas participantes no dia 31 de janeiro de 2014, às 11h15min (onze horas e quinze minutos), horário de Brasília – DF, no Espaço Cross Space no Campus Party Brasil.
 

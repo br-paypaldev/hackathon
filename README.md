@@ -1,6 +1,11 @@
 # Concurso PayPal Hackathon
 
-Marcação básica para os projetos do hackathon PayPal Campus Party 2014
+Marcação básica para os projetos do hackathon PayPal Campus Party 2014.
+
+Os arquivos contidos nesse repositório são apenas para facilitar o processo
+de desenvolvimento. Os desenvolvedores precisarão ainda implementar sua aplicação
+e interface segundo o manual de boas práticas de interface, contido na lista de
+links abaixo.
 
 ## Links úteis
 

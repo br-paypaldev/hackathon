@@ -11,8 +11,12 @@
                 <h1 class="main-title"><a href="index.html">Concurso Hackathon PayPal</a></h1>
             </header>
             <div class="content">
+                <div class="content-info">
+                    <h2 class="content-title">Sucesso!</h2>
+                    <p>Parabéns {nome-do-cliente}, sua compra foi registrada com sucesso. Por favor, confira seus dados abaixo para finalizar.</p>
+                </div>
                 <div class="field-group">
-                    <h2 class="field-group-title">Dados do cliente</h2>
+                    <h3 class="field-group-title">Seus dados</h3>
                     <ul class="field-group-list">
                         <li class="field-group-item"><span class="field-group-item-name">Nome:</span> <span class="field-group-item-value">Fulano de tal</span>
                         <li class="field-group-item"><span class="field-group-item-name">Email:</span> <span class="field-group-item-value">fulano@tal.com</span>
@@ -20,8 +24,12 @@
                     </ul>
                 </div>
                 <div class="field-group">
-                    <h2 class="field-group-title">Dados para entrega</h2>
-                    <ul class="field-grpup-list">
+                    <!--
+                    Caso sua integração vá vender produtos digitais, então essa seção não é necessária. O endereço
+                    de entrega deve ser exibido apenas no caso de produtos físicos.
+                    -->
+                    <h3 class="field-group-title">Dados para entrega (apenas para produtos físicos)*</h3>
+                    <ul class="field-group-list">
                         <li class="field-group-item"><span class="field-group-item-name">Nome:</span> <span class="field-group-item-value">Fulano de tal</span>
                         <li class="field-group-item"><span class="field-group-item-name">Endereço:</span> <span class="field-group-item-value">Rua dos bobos, 0</span>
                         <li class="field-group-item"><span class="field-group-item-name">Bairro:</span> <span class="field-group-item-value">Bairro</span>
@@ -31,7 +39,7 @@
                     </ul>
                 </div>
                 <div class="field-group">
-                    <h2 class="field-group-title">Produtos comprados</h2>
+                    <h3 class="field-group-title">Produtos comprados</h3>
                     <table class="field-group-table">
                         <thead class="field-group-table-header">
                             <tr>

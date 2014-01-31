@@ -43,6 +43,15 @@ body {
     text-decoration: none;
 }
 
+.content-info {
+    width: 900px;
+    margin: 20px auto;
+}
+
+    .content-title {
+        font-size: 36px;
+    }
+
 .product-list .product-item {
     float: left;
     border: 1px solid #ccc;
@@ -92,6 +101,10 @@ body {
     padding-bottom: 10px;
     border-bottom: 1px dashed #ddd;
 }
+
+    .field-group-list, .field-group-table {
+        margin-top: 20px;
+    }
 
     .field-group-item {
         display: block;
